@@ -4,12 +4,12 @@ Aruvu Collaboratory LLP was formed to formalise and foster our decade-long engag
 
 We have been, and will continue to work towards the following core objectives:
 
-    Facilitate community-led research projects through participatory creative approaches
-    Incubation of local enterprises
-    Establishing and maintenance of community owned digital infrastructures and networks
-    Digital learning products and curriculum design
-    Research and development of products and services that enable community-led development
+* Facilitate community-led research projects through participatory creative approaches
+* Incubation of local enterprises
+* Establishing and maintenance of community owned digital infrastructures and networks
+* Digital learning products and curriculum design
+* Research and development of products and services that enable community-led development
 
-Reach us at
+## Reach us at
 
 wellbeing@aruvu.org
